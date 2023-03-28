@@ -1,7 +1,5 @@
-<html>
-<head>
-<title>网页设计与网站建设课程网站</title>
-<meta http-equiv="keywords" content="网页设计,网站建设,课程信息">
+<title>个人网站</title>
+<meta http-equiv="keywords" content="简历">
 <meta http-equiv="description" content="网页设计与网站建设课程网站">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <style>
@@ -36,5 +34,3 @@ font-weight:bold;
 </p>
 </div>
 <div>
-</body>
-</html>
