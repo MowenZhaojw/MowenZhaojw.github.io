@@ -18,7 +18,7 @@ font-weight:bold;
 <body>
 <div class="container">
 <div>
-<a href="赵建伟-河北工业大学.pdf">个人简历</a>
+<a href="/docs/赵建伟-河北工业大学.pdf">个人简历</a>
 </div>
 <div class="content">
 <p>
